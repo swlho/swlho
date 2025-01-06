@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swlho" alt="swlho" /></a> </p>
 
-- 🔭 I’m currently working on [Chingu Voyage52](https://github.com/chingu-voyages/v52-tier2-team-20)
+- 🔭 I previously worked on [Chingu Voyage52](https://github.com/chingu-voyages/v52-tier2-team-20).  I'm currently working on a portfolio project using Deno with Next.js.
 
 - 🌱 I’m currently learning **data structures and algorithms through 'A Common-Sense Guide to Data Structures and Algorithms' by Jay Wengrow**
 
