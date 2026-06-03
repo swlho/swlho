@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swlho" alt="swlho" /></a> </p>
 
-- 🔭 I'm currently an Associate Software Engineer @ [Kraken Tech](https://www.kraken.tech).  I'm currently working on a hobby project using Deno with Next.js, and a SaaS product for the PlanTech space.
-
+- 🔭 I'm currently a Software Engineer @ [Kraken Tech](https://www.kraken.tech).
+  
 - 🌱 I’m currently learning **data structures and algorithms through 'A Common-Sense Guide to Data Structures and Algorithms' by Jay Wengrow**
 
-- 👨‍💻 All of my projects are available at [https://www.swlho.com](https://www.swlho.com)
+- 👨‍💻 All of my projects are available at [https://www.swlho.com](https://www.swlho.com).  I'm currently working on a hobby project using Deno with Next.js, and a SaaS product for the PlanTech space.
 
-- 📫 How to reach me **stephen@swlho.com**
+- 📫 Reach me at **stephen@swlho.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
